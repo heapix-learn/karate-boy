@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "email": "meow@me.ow",
+      "password": "123ewq1231!.e1Q",
+      "id": 1
+    },
+    {
+      "email": "meow2@me.ow",
+      "password": "123ewq1231!.e1Q",
+      "isHomosexual": true,
+      "id": 2
+    }
+  ]
+}
